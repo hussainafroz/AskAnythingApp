@@ -51,8 +51,11 @@ Improving my chatbot's ability to engage in longer, more complex conversations.
 Enhancing the user interface for better user experience. 
 
 
-**Vedio Demo**
+**Video Demo**
 
-https://github.com/hussainafroz/AskAnythingApp/assets/83532496/50ce2900-68fd-4a81-9d8f-fb9f897104bc
+
+
+
+https://github.com/hussainafroz/AskAnythingApp/assets/83532496/64c7c6f1-c801-49df-b310-25da49f86a7f
 
 
